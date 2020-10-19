@@ -36,6 +36,7 @@
 ![Sublime](http://img.shields.io/badge/-Sublime-FF9800?style=flat-square&logo=Sublime%20Text&logoColor=000000)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff)
 ![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=ffffff)
+![Vim](http://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=ffffff)
 ![Hackerone](https://img.shields.io/badge/-Hackerone-black?style=flat-square&logo=HackerOne&logoColor=ffffff)
 
 ---
