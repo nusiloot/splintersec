@@ -7,7 +7,6 @@
 - 👨‍💻 I’m currently doing web applications security testing.
 - 📚 Learning new technologies and sharpening my skills in the cybersec field ⚒
 - 💪🏼 Future Goals: getting better at Ruby on Rails & ReactJS.
-- ⚡ Fun fact: I prefer staying in front of my 💻 than going out with my friends😅.
 
 
 ---
